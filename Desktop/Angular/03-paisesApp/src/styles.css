@@ -5,3 +5,13 @@
 .mr-1{
     margin-right: 5px;
 }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+      width: 100%;
+    }
+    body{
+        background-color: linen;
+    }
+  }
