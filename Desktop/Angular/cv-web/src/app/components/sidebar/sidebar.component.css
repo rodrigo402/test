@@ -1,0 +1,26 @@
+.sidebar{
+    height: 100%;
+}
+.listamenu{
+    min-height: 100vh;
+    text-align: center;
+}
+ul li a {
+    list-style: none;
+    color: #FFF;
+}
+img {
+    margin: 10px auto;
+    padding: 60px 0;
+    max-width: 150px;
+    width: 60%;
+    max-width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+}
+
+.lista{
+    padding-top: 5px;
+}
