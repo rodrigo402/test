@@ -9,6 +9,12 @@ img{
     width: 320px;
     height: 200px;
 }
+@media only screen and (max-width: 600px){
+    img{
+        width: 275px;
+        height: 175px;
+    }
+}
 /* .col-3{
     background-image: url(../../../assets/img/fondohome.jpg);
     width: 200px;
